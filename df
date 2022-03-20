@@ -1,0 +1,41 @@
+[33mcommit dc779a5969af1d71b2835f38ce580155eb711a61[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: vinay <vinayrallabandi2012@gmail.com>
+Date:   Sun Mar 20 10:26:53 2022 +0000
+
+    bhaskerfile
+
+[33mcommit bcc850a338bd36b50ff6d930ebbf3631f1bfe1ee[m
+Author: vinay <vinayrallabandi2012@gmail.com>
+Date:   Sun Mar 20 09:51:21 2022 +0000
+
+    ignoring .class
+
+[33mcommit 339ad25b076ec20cb55c782371d27af15c2df51c[m
+Author: vinay <vinayrallabandi2012@gmail.com>
+Date:   Sun Mar 20 09:48:01 2022 +0000
+
+    ignoring demo
+
+[33mcommit 6822d702341cc52dcb8a726f0764574e5bcc8e81[m
+Author: vinay <vinayrallabandi2012@gmail.com>
+Date:   Sun Mar 20 09:40:25 2022 +0000
+
+    gitignore
+
+[33mcommit 45067b590d9fcf456717abc2d087e8a1787d6aa8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: vinay <vinayrallabandi2012@gmail.com>
+Date:   Fri Mar 18 19:43:44 2022 +0000
+
+    third line added from mumbai instanace
+
+[33mcommit d5c1f984b197e9073ebb2b8c6eae208501ef31f7[m
+Author: vinay2 <vinay@gmail.com>
+Date:   Fri Mar 18 19:30:21 2022 +0000
+
+    second line added from london
+
+[33mcommit 9a524b08e25b3e5104e2623f8df09b5b9fd5d2e4[m
+Author: vinay <vinayrallabandi2012@gmail.com>
+Date:   Fri Mar 18 18:26:13 2022 +0000
+
+    first commit from mumbai
